@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Camp Lejeune Acquisition Boundary",
+        "Date": "1941",
+        "Description": "The 110,000-acre land boundary acquired along the New River in 1941, evicting local farming and fishing communities."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-77.4360, 34.7540],
+            [-77.3400, 34.7800],
+            [-77.1600, 34.7200],
+            [-77.1200, 34.6400],
+            [-77.3100, 34.5400],
+            [-77.4200, 34.4800],
+            [-77.5300, 34.4600],
+            [-77.5800, 34.4800],
+            [-77.6800, 34.7200],
+            [-77.6500, 34.8500],
+            [-77.5300, 34.9700],
+            [-77.4360, 34.7540]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Montford Point",
+        "Date": "1942",
+        "Description": "Segregated training facility for the first African American recruits in the U.S. Marine Corps following Executive Order 8802."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3800, 34.7200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Courthouse Bay",
+        "Date": "1941",
+        "Description": "Historic agrarian and fishing landing repurposed into specialized amphibious water-training facilities for the base."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3560, 34.5450]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jacksonville",
+        "Date": "1941-1945",
+        "Description": "A rural town that underwent rapid boomtown expansion and housing pressures right outside the newly constructed base gates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4360, 34.7540]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Verona",
+        "Date": "1941",
+        "Description": "Rail siding and rural junction heavily impacted by troop transport, heavy supply movement, and surrounding land condemnation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4983, 34.6432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kellumtown (Hubert)",
+        "Date": "1941-1950",
+        "Description": "Historic African American rural settlement on the base periphery where displaced families sought post-eviction homes and land."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.2422, 34.7177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sneads Ferry",
+        "Date": "1941",
+        "Description": "Traditional coastal fishing community directly abutting the southern border of the Marine Corps amphibious training grounds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3858, 34.5516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Richlands",
+        "Date": "1941-1945",
+        "Description": "Inland farming community that absorbed displaced agricultural families moving northwest away from the base boundary."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.5458, 34.8982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maysville",
+        "Date": "1941-1945",
+        "Description": "Northern gateway town along the rail line serving as a perimeter point for military transport heading toward New Bern."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.2341, 34.9043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quantico",
+        "Date": "1941",
+        "Description": "Virginia Marine Corps headquarters serving as the administrative authority and doctrine hub directing Camp Lejeune's expansion."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3460, 38.5220]
+      }
+    }
+  ]
+}
